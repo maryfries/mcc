@@ -1,0 +1,164 @@
+/* CSS Document*/
+body{
+	font-family:"Trebuchet MS", Arial, Helvetica;
+	background:url(../Images/logos/nav_background.gif) repeat-y;
+	background-position:top left;
+}
+#container{
+	width: 800px;
+}
+p, ul,li,ol{
+	font-size: 14px;
+}
+#header h1{
+	margin:0;
+	padding:0;
+	text-indent:-5000em;
+}
+#navigation{
+	float: left;
+	margin:0;
+	padding-top:120px;
+	width: 220px;
+	background: url("../Images/logos/k12logo2.gif") no-repeat;
+}
+	#navigation li{
+		text-align:right;
+		list-style: none;	
+		font-size: 15px;
+		font-weight:bold;
+		border-bottom:1px solid #ffffff;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		margin:10px 0 0 0;
+		padding:0 10px 0 0;
+	}
+	#navigation li a:link, #navigation li a:visited{
+		text-decoration:none;
+		color:#ffffff;
+	}
+	#navigation li a:hover{
+		color: #FFFF99;
+		text-decoration:none;
+	}
+#search{
+	margin-top: 50px;
+	font-weight:bold;
+	font-size: 15px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-align:right;
+	padding-right: 3px;
+}
+#maincontent, #news{
+	float: right;
+	clear:right;
+	margin:0;
+	padding:0;
+	width: 560px;
+}
+	#maincontent p{
+		padding-top: 2em;
+	}
+	#maincontent h1{
+		border-bottom: 1px solid #999999;
+		font-size:28px;
+		margin:0;
+	}
+	
+#news {
+	background:url(../Images/3squares_small.gif) no-repeat 200px 5px;
+	margin-top: 1em;
+}
+	#news h2{
+		border-bottom:1px solid #999999;
+		margin:0;
+		padding:0;
+	}
+	#news img{
+		float: left;
+		padding: 0 5px 0 5px;
+	}
+	#leftcolumn, #rightcolumn, #middlecolumn{
+		float:left;
+		width: 170px;
+		margin: 5px 0 25px 0;
+		padding: 5px 8px 0 5px;
+	}
+	#leftcolumn p, #middlecolumn p, #rightcolumn p{
+		margin:0;
+		padding:0;
+		font-size: 11px;
+		clear:right;
+	}
+	#middlecolumn{
+		border-right:1px solid #999999;
+		border-left:1px solid #999999;
+	}
+
+#footer {
+		width: 560px;
+		float: right;
+		}
+	#footer img {
+		float: left;
+		padding-top: 10px;
+		}
+	#nsf {
+		float:left;
+		width: 250px;
+		margin: 0;
+		background: url("../Images/logos/NSFlogo.gif") no-repeat;
+		}
+	#nsf p{ 
+		clear:right;
+		margin:0 0 1em 6em; 
+		font-size:11px;
+		}
+	#edc{
+		float:right;
+		width: 260px;
+		margin:0;
+		padding: 0;
+		background: url("../Images/logos/edc_logonew.jpg") no-repeat;
+	}
+	#edc p{
+		clear:right;
+		margin:0 0 0 7em; 
+		font-size:11px;
+	}
+	#textlinks{
+		margin:0;
+		padding:0;
+	}
+	#textlinks p{
+		margin:1em 0 2em 0;
+		font-size: 12px;
+		text-align:center;
+	}
+	#footer a:link, #footer a:visited{
+		text-decoration:none;
+		color:#003366;
+	}
+	#footer a:hover{
+		text-decoration:underline;
+		color:#003366;
+	}
+.bigsquares{
+	float: right;
+	
+	}
+.title{
+	font-style:italic;
+	
+}
+.smallsquares{
+	margin:-22px 0 0 160px;
+}
+.leftphoto{
+	float: left;
+	padding: 5px;
+}
+.newsphoto{
+	padding-right:.5em;
+	float:left;
+}
