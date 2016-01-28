@@ -1,7 +1,8 @@
 /* CSS Document*/
 body{
 	font-family:"Trebuchet MS", Arial, Helvetica;
-	background:url(../images/nav_background.gif) repeat-y;
+	background-image:url('../images/nav_background.gif');
+	background-repeat:repeat-y;
 	background-position:top left;
 }
 #container{
@@ -9,6 +10,10 @@ body{
 }
 p, ul,li,ol{
 	font-size: 14px;
+}
+ul .nobullet{
+	list-style-type:none;
+
 }
 #header h1{
 	margin:0;
@@ -49,7 +54,7 @@ p, ul,li,ol{
 	text-align:right;
 	padding-right: 3px;
 }
-#maincontent, #news{
+#maincontent{
 	float: right;
 	clear:right;
 	margin:0;
@@ -57,43 +62,34 @@ p, ul,li,ol{
 	width: 560px;
 }
 	#maincontent p{
-		padding-top: 2em;
+		padding:0;
+		clear:both;
 	}
 	#maincontent h1{
 		border-bottom: 1px solid #999999;
 		font-size:28px;
 		margin:0;
+		text-align:right;
+		color: #333366;
 	}
-	
-	#news {
-		background:url("../images/3squares_small.gif") no-repeat 200px 5px;
-		margin-top: 1em;
+	h2{
+		font-size:26px;
+		margin-top:2em;
+		color: #3399CC;
 	}
-	
-	#news h2{
-		border-bottom:1px solid #999999;
+	h3{
+		font-size:24px;
+		margin-bottom:.75em;
+		color:#000066;
+	}
+	h4{
+		font-size:18px;
 		margin:0;
+		color: #000000;
+	}
+	.sectionlogo{
 		padding:0;
-	}
-	#news img{
-		float: left;
-		padding: 0 5px 0 5px;
-	}
-	#leftcolumn, #rightcolumn, #middlecolumn{
-		float:left;
-		width: 170px;
-		margin: 5px 0 25px 0;
-		padding: 5px 8px 0 5px;
-	}
-	#leftcolumn p, #middlecolumn p, #rightcolumn p{
 		margin:0;
-		padding:0;
-		font-size: 11px;
-		clear:right;
-	}
-	#middlecolumn{
-		border-right:1px solid #999999;
-		border-left:1px solid #999999;
 	}
 
 #footer {
@@ -146,20 +142,40 @@ p, ul,li,ol{
 	}
 .bigsquares{
 	float: right;
-	
-	}
+}
 .title{
 	font-style:italic;
-	
-}
-.smallsquares{
-	margin:-22px 0 0 160px;
 }
 .leftphoto{
 	float: left;
-	padding: 5px;
+	padding: 0 10px 20px 10px;
 }
-.newsphoto{
-	padding-right:.5em;
-	float:left;
+.rightphoto{
+	float:right;
+	padding: 0 10px 20px 10px;
+}
+.opportunities{
+	font-weight: bold;
+	margin-bottom: -1em;
+	color: #000066;
+}
+div .contactinfo{
+	line-height: .25em;
+}
+#maincontent label {display: block;  font-weight: bold; color: #000066;}
+#maincontent textarea {margin-left: 40px;}
+#maincontent input {margin-left: 40px;}
+
+.redasterisk{
+	color: #FF0000;
+}
+.bold{
+	font-weight: bold;
+}
+.blockquote{
+	margin-left: 4em;
+}
+.introtext{
+	color: #000066;
+	font-style:italic;
 }
