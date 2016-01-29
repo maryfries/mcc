@@ -25,9 +25,9 @@
                         Education Development Center, Inc.<br />
                         43 Foundry Aveune<br />
                         Waltham, MA 02453<br />
-                        Phone: (617) 618-2501<br />
+                        Phone: (617) 618-2540<br />
                         Fax: (617) 969-1527<br />
-                        ATTN: Mari Halladay<br />
+                        ATTN: Mari Dobson<br />
                         E-mail: <a href="mailto:mcc@edc.org">mcc@edc.org</a>
                     </p>
                 </div>

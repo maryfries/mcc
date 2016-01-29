@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <title>K-12: Seminars</title>
-<link href="../css/second.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/second.css" rel="stylesheet" type="text/css" media="screen">
 
 
 <style type="text/css">
@@ -26,9 +26,9 @@
 <?php include 'includes/navigation.inc'; ?>
 
 <div id="maincontent">
- <img src="../Images/resourceslogo.jpg" alt="Other Resources" width="56" height="71" class="sectionlogo">
+ <img src="images/resourceslogo.jpg" alt="Other Resources" width="56" height="71" class="sectionlogo">
    <h1>Other Resources </h1>
-   <img src="../Images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
+   <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
  
   <h2 class="style1">Coming Soon!</h2>
   <p>&nbsp;</p>

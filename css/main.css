@@ -1,7 +1,7 @@
 /* CSS Document*/
 body{
 	font-family:"Trebuchet MS", Arial, Helvetica;
-	background:url(../images/nav_background.gif) repeat-y;
+	background:url("../images/nav_background.gif") repeat-y;
 	background-position:top left;
 }
 #container{

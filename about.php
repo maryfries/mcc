@@ -20,19 +20,21 @@
                 <h1>About Us </h1>
                 <img src="images/3squares.gif" alt="Squares" width="100" height="35" class="bigsquares" title="Squares">
                 <h2>About the K&ndash;12 Mathematics Curriculum Center</h2>
-                <p>The K&ndash;12 Mathematics Curriculum Center (K&ndash;12 MCC) was established in 1997 at Education Development Center, Inc. Our mission is to help teachers and administrators make thoughtful, informed decisions about mathematics curriculum and instructional materials. To that end, our projects aim to:
-                    <ul>
+                <p>The K&ndash;12 Mathematics Curriculum Center (K&ndash;12 MCC) was established in 1997 at Education Development Center, Inc. Our mission is to help teachers and administrators make thoughtful, informed decisions about mathematics curriculum and instructional materials. To that end, our projects aim to:</p>
+				<div>
+                	<ul>
                         <li>investigate how curriculum decisions are made in K&ndash;12 mathematics programs</li>
                         <li>provide resources that support good curriculum selection and implementation</li>
                         <li> connect research and practice in mathematics curriculum</li>
                     </ul>
-                </p>
-                <p class="bold">K&ndash;12 MCC efforts and products</p>
+                </div>
+                
+                <p><strong>K&ndash;12 MCC efforts and products</strong></p>
                 <ul>
                     <li><a href="research.php">Research</a> studies that investigate curricular decision-making</li>
                     <li><a href="pubs.php">Publications</a> that guide clients through curriculum selection and implementation, and connect them to research about the use of these mathematics programs. Most are available as free downloads.</li>
                 </ul>
-                <p class="bold">K&ndash;12 MCC staff</p>
+                <p><strong>K&ndash;12 MCC staff</strong></p>
                 <p>
                     June Mark, Project Director<br />
                     Deborah Spencer, Project Director<br />
@@ -40,16 +42,6 @@
                     Julie Zeringue, Senior Research Associate<br />
                     Kathryn Chiappinelli, Senior Research Associate<br />
                     Mari Halladay, Project Coordinator
-                </p>
-                <h2>To contact the K&ndash;12 MCC:</h2>
-                <p>
-                    <strong>K&ndash;12 Mathematics Curriculum Center</strong><br />
-                    Education Development Center, Inc.<br />
-                    43 Foundry Aveune<br />
-                    Waltham, MA 02453<br />
-                    ATTN: Mari Halladay<br />
-                    Email: <a href="mailto:mcc@edc.org"> mcc@edc.org</a><br />
-                    Phone: 617-618-2501
                 </p>
             </div> 
             
