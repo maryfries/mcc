@@ -23,8 +23,8 @@
                 <p>Access the annotated bibliography online in one of three ways:</p>
                 <div>
                     <ul>
-                        <li><strong><a href="mbiblionewbrowse.php">Browse</a></strong> the Annotated Bibliography by section</li>
-                        <li><strong><a href="mbiblionewlist.php">Search</a></strong> the Annotated Bibliography by author</li>
+                        <!--<li><strong><a href="mbiblionewbrowse.php">Browse</a></strong> the Annotated Bibliography by section</li>
+                        <li><strong><a href="mbiblionewlist.php">Search</a></strong> the Annotated Bibliography by author</li>-->
                         <li><strong><a href="pdf/K12MCCAB2009.pdf" target="_blank">Download a PDF</a></strong> of the complete Annotated Bibliography</li>
                     </ul>
                 </div>

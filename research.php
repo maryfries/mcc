@@ -19,7 +19,7 @@
                 <img src="images/researchlogo.gif" alt="Research" width="161" height="28" class="sectionlogo">
                 
                 <h1>Research</h1>
-                <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
+                <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares"><br /><br />
                 <p>The K&ndash;12 Mathematics Curriculum Center has been working on two projects relating to the selection and implementation of mathematics textbooks:</p>
 
                 <h4><span class="bold"><a href="curriculum.php">The Mathematics &nbsp;Instructional Materials Study at EDC</a></span></h4>

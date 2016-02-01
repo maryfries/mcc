@@ -11,9 +11,8 @@ body{
 p, ul,li,ol{
 	font-size: 14px;
 }
-ul .nobullet{
+ul.nobullet li{
 	list-style-type: none;
-
 }
 #header h1{
 	margin: 0;
@@ -27,7 +26,7 @@ ul .nobullet{
 	width: 220px;
 	background: url("../images/logos/k12logo2.gif") no-repeat;
 }
-	#navigation li{
+#navigation li{
 		text-align: right;
 		list-style: none;	
 		font-size: 15px;
