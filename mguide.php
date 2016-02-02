@@ -25,18 +25,18 @@
                 <p>
                     To view excerpts from the guide, click below (Adobe Acrobat required):
                     <ul>
-                        <li><a href="pdf/guide-to.pdf">Table of Contents</a></li>
-                        <li><a href="pdf/gchp1.pdf">Chapter 1: What Is a <span class="title">Standards</span>-Based Curriculum?</a></li>
-                        <li><a href="pdf/gchp2.pdf">Chapter 2: Getting Started: The &#8220;Big Ideas&#8221; of the Selection and Implementation Process</a></li>
-                        <li><a href="pdf/gchp6.pdf">Chapter 6: Developing and Applying Selection Criteria</a></li>
-                        <li><a href="pdf/gchp9.pdf">Chapter 9: Teacher Support</a></li>
-                        <li><a href="pdf/gchp11.pdf">Chapter 11: Implementation Rollout</a></li>
-                        <li><a href="pdf/guide-se.pdf">Appendix: Sample Selection Criteria</a></li>
+                        <li><a href="pdf/guide-to.pdf" target="_blank">Table of Contents</a></li>
+                        <li><a href="pdf/gchp1.pdf" target="_blank">Chapter 1: What Is a <span class="title">Standards</span>-Based Curriculum?</a></li>
+                        <li><a href="pdf/gchp2.pdf" target="_blank">Chapter 2: Getting Started: The &#8220;Big Ideas&#8221; of the Selection and Implementation Process</a></li>
+                        <li><a href="pdf/gchp6.pdf" target="_blank">Chapter 6: Developing and Applying Selection Criteria</a></li>
+                        <li><a href="pdf/gchp9.pdf" target="_blank">Chapter 9: Teacher Support</a></li>
+                        <li><a href="pdf/gchp11.pdf" target="_blank">Chapter 11: Implementation Rollout</a></li>
+                        <li><a href="pdf/guide-se.pdf" target="_blank">Appendix: Sample Selection Criteria</a></li>
                     </ul>
-                </p>
+                </p><br />
                 <p><span class="title">Choosing a Standards-Based Mathematics Curriculum</span> is
-                available from Heinemann, Inc., at a cost of $24 (plus shipping and handling). </p>
-                <p>To order, please call Heinemann, Inc., at (800) 793-2154 or visit their website at <a href="http://books.heinemann.com/products/E00163.aspx" target="_blank">www.heinemann.com</a>, where you can receive a 10% discount for ordering online. </p>
+                available from Heinemann, Inc.<!--, at a cost of $24 (plus shipping and handling). </p>
+                <p>--> To order, please call Heinemann, Inc., at (800) 793-2154 or visit their website at <a href="http://books.heinemann.com/products/E00163.aspx" target="_blank">www.heinemann.com</a>, where you can receive a 10% discount for ordering online. </p>
             </div> 
             
 <?php include 'includes/footer.inc'; ?>

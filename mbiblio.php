@@ -25,7 +25,7 @@
                     Access the annotated bibliography online in one of two ways:-->
                     <ul>
                         <!--<li><a href="../search.asp">Browse</a> the Third Edition by section or by author</li>-->
-                        <li>Download an Adobe Acrobat file of the <a href="pdf/annobib3.pdf">Third Edition, April 2005</a></li>
+                        <li>Download an Adobe Acrobat file of the <a href="pdf/annobib3.pdf" target="_blank">Third Edition, April 2005</a></li>
                     </ul>
                 </p><br />
                 <!--<p>To request a hard copy, email us at <a href="mailto:mcc@edc.org">mcc@edc.org</a>.</p>-->

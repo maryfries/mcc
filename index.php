@@ -24,7 +24,7 @@
             <div id="news">
                 <h2>News &amp; Highlights</h2>
                 <div id="leftcolumn">
-                    <p><img src="images/pubslogo.gif" alt="Resources icon" width="70" height="55">New! If you are preparing for an upcoming textbook adoption, download our <a href="mbiblionew.php">New Annotated Bibliography</a> for articles and resources relevant to the selection process.</p>
+                    <p><img src="images/pubslogo.gif" alt="Resources icon" width="70" height="55">If you are preparing for an upcoming textbook adoption, download our <a href="mbiblionew.php">New Annotated Bibliography</a> for articles and resources relevant to the selection process.</p>
                 </div>
                 <div id="middlecolumn">
                     <p><img src="images/key-issues.gif" width="57" height="70">Adopting new mathematics materials and not sure where to start? Check out our <a href="mgotolists.php">&ldquo;go to&rdquo; lists</a> for elementary, middle and high school that provide article annotations of key articles related to the selection and implementation of mathematics materials.</p>

@@ -27,36 +27,36 @@
                 <div>
                     <span class="title">Perspectives</span> collections for individual curricula can also be downloaded as Adobe Acrobat files (see below).
                     <ul class="nobullet">
-	                    <li><a href="pdf/persppreface.pdf">Preface</a> </li>
+	                    <li><a href="pdf/persppreface.pdf" target="_blank">Preface</a> </li>
                     </ul>
                 </div>
 
                 <h3>Elementary School <span class="title">Perspectives</span></h3>
                 <div>
                     <ul class="nobullet">
-                        <li><a href="pdf/perspeverydaymath.pdf">Everyday Mathematics </a></li>
-                        <li><a href="pdf/perspinvestigations.pdf">Investigations in Number, Data, and Space</a> </li>
-                        <li><a href="pdf/persptrailblazers.pdf">Math Trailblazers </a></li>
+                        <li><a href="pdf/perspeverydaymath.pdf" target="_blank">Everyday Mathematics </a></li>
+                        <li><a href="pdf/perspinvestigations.pdf" target="_blank">Investigations in Number, Data, and Space</a> </li>
+                        <li><a href="pdf/persptrailblazers.pdf" target="_blank">Math Trailblazers </a></li>
                     </ul>
                 </div>
                 <h3>Middle-Grades <span class="title">Perspectives</span></h3>
                 <div>
                     <ul class="nobullet">
-                        <li><a href="pdf/perspconnectedmath.pdf">Connected Mathematics (CMP)</a> </li>
-                        <li><a href="pdf/perspmathincontext.pdf">Mathematics in Context </a></li>
-                        <li><a href="pdf/perspmathscape2.pdf">MathScape: Seeing and Thinking Mathematically </a></li>
-                        <li><a href="pdf/perspmaththematics.pdf">MATHThematics </a></li>
+                        <li><a href="pdf/perspconnectedmath.pdf" target="_blank">Connected Mathematics (CMP)</a> </li>
+                        <li><a href="pdf/perspmathincontext.pdf" target="_blank">Mathematics in Context </a></li>
+                        <li><a href="pdf/perspmathscape2.pdf" target="_blank">MathScape: Seeing and Thinking Mathematically </a></li>
+                        <li><a href="pdf/perspmaththematics.pdf" target="_blank">MATHThematics </a></li>
                     </ul>
                 </div>
                 
                 <h3>High School <span class="title">Perspectives</span></h3>
                 <div>
                     <ul class="nobullet">
-                        <li><a href="pdf/perspcoreplus.pdf">Contemporary Mathematics in Context (Core-Plus) </a></li>
-                        <li><a href="pdf/perspimp.pdf">Interactive Mathematics Program (IMP) </a></li>
-                        <li><a href="pdf/perspmathconx.pdf">MATH Connections: A Secondary Mathematics Core Curriculum </a></li>
-                        <li><a href="pdf/perspmmow.pdf">Mathematics: Modeling Our World </a></li>
-                        <li><a href="pdf/perspsimms.pdf">SIMMS Integrated Mathematics </a></li>
+                        <li><a href="pdf/perspcoreplus.pdf" target="_blank">Contemporary Mathematics in Context (Core-Plus) </a></li>
+                        <li><a href="pdf/perspimp.pdf" target="_blank">Interactive Mathematics Program (IMP) </a></li>
+                        <li><a href="pdf/perspmathconx.pdf" target="_blank">MATH Connections: A Secondary Mathematics Core Curriculum </a></li>
+                        <li><a href="pdf/perspmmow.pdf" target="_blank">Mathematics: Modeling Our World </a></li>
+                        <li><a href="pdf/perspsimms.pdf" target="_blank">SIMMS Integrated Mathematics </a></li>
                     </ul>
                 </div>
             </div> 

@@ -20,7 +20,7 @@
                 
                 <h1>Publications</h1>
                 <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
-                <p>The K&ndash;12 Mathematics Curriculum Center publishes a range of print materials that supply information and guidance about curriculum selection and use,nand explain current issues in mathematics education.</p>
+                <p>The K&ndash;12 Mathematics Curriculum Center publishes a range of print materials that supply information and guidance about curriculum selection and use, and explain current issues in mathematics education.</p>
                 
                 <h3>Effective Use of Mathematics Instructional Materials: Building Bridges Between Research and Practice</h3>
                 <p>
@@ -54,10 +54,10 @@
                         <li><a href="pdf/iss_assm.pdf" class="title" target="_blank">Assessing Students' Mathematics Learning</a></li>
                         <li><a href="pdf/iss_tech.pdf" class="title" target="_blank">Thinking (and Talking) About Technology in Math Classrooms</a></li>
                     </ul>
-                </p>
+                </p><br />
             </div> 
         
-        <?php include 'includes/footer.inc'; ?>
+<?php include 'includes/footer.inc'; ?>
         
         </div>
     </body>
