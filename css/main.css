@@ -120,12 +120,17 @@ p, ul,li,ol{
 		width: 260px;
 		margin:0;
 		padding: 0;
-		background: url("../images/logos/edc_logonew.jpg") no-repeat;
+		/*background: url("../images/logos/edc_logonew.jpg") no-repeat;*/
 	}
 	#edc p{
 		clear:right;
-		margin:0 0 0 7em; 
+		margin:0 0 0 0; 
 		font-size:11px;
+	}
+	#edc p img{
+		float: left;
+		margin: 0;
+		padding: 0 1em 0 0 ;
 	}
 	#textlinks{
 		margin:0;

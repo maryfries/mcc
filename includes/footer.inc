@@ -7,8 +7,6 @@
                     <p>The K&ndash;12 Mathematics Curriculum Center is funded by the <a href="http://www.nsf.gov">National Science Foundation</a> to inform and assist schools and districts as they select and implement Standards-based mathematics curricula.</p>
                 </div>
                 <div id="edc">
-                    <p>Site hosted by<br />
-                    <a href="http://main.edc.org">Education Development Center, Inc.</a> <br />
-                    <a href="http://main.edc.org/info/legal.asp">&copy; 2016  All rights reserved.</a></p>
+                    <p><a href="http://main.edc.org"><img src="images/logos/edc_logonew.jpg" />Copyright &copy; 2016 by Education Development Center, Inc.</a></p>
                 </div>
             </div>
