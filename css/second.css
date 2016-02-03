@@ -1,9 +1,7 @@
 /* CSS Document*/
 body{
 	font-family: "Trebuchet MS", Arial, Helvetica;
-	background-image: url('../images/nav_background.gif');
-	background-repeat: repeat-y;
-	background-position: top left;
+	background: url("../images/nav_background.gif") repeat-y top left;
 }
 #container{
 	width: 800px;
@@ -26,7 +24,7 @@ ul.nobullet li{
 	width: 220px;
 	background: url("../images/logos/k12logo2.gif") no-repeat;
 }
-#navigation li{
+	#navigation li{
 		text-align: right;
 		list-style: none;	
 		font-size: 15px;
