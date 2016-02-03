@@ -19,7 +19,7 @@
                 <img src="images/pubslogo.gif" alt="Publications" width="70" height="55" class="sectionlogo">
                 
                 <h1>Publications</h1>
-                <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
+                <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares"><br /><br />
                 <p>The K&ndash;12 Mathematics Curriculum Center publishes a range of print materials that supply information and guidance about curriculum selection and use, and explain current issues in mathematics education.</p>
                 
                 <h3>Effective Use of Mathematics Instructional Materials: Building Bridges Between Research and Practice</h3>

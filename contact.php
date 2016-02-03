@@ -18,17 +18,17 @@
             <div id="maincontent">
                 <img src="images/contactus.gif" alt="Contact Us" width="93" height="48" class="sectionlogo">
                 <h1>Contact Us </h1>
-                <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
+                <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares"><br />
                 <div id="contactinfo">
+                    <h4><br />K&ndash;12 Mathematics Curriculum Center</h4>
+                    <p>E-mail: <a href="mailto:mcc@edc.org">mcc@edc.org</a></p>
                     <p>
-                        <strong>K&ndash;12 Mathematics Curriculum Center</strong><br />
                         Education Development Center, Inc.<br />
                         43 Foundry Aveune<br />
                         Waltham, MA 02453<br />
                         Phone: (617) 618-2540<br />
                         Fax: (617) 969-1527<br />
                         ATTN: Mari Dobson<br />
-                        E-mail: <a href="mailto:mcc@edc.org">mcc@edc.org</a>
                     </p>
                 </div>
             </div> 

@@ -41,7 +41,7 @@
                     Katherine Schwinden, Senior Research Associate <br />
                     Julie Zeringue, Senior Research Associate<br />
                     Kathryn Chiappinelli, Senior Research Associate<br />
-                    Mari Halladay, Project Coordinator
+                    Mari Dobson, Project Coordinator
                 </p>
             </div> 
             
