@@ -8,7 +8,7 @@
 						<img style="position:relative; margin-right:10px; width:75px;" src="images/logos/NSF_logo.png" alt="National Science Foundation" title="National Science Foundation" />
 					</div>
 					<p style="position:absolute; padding: 0 0px 0 75px;">
-						The K&ndash;12 Mathematics Curriculum Center is funded by the <a href="http://www.nsf.gov" target="_blank">National Science Foundation</a> to inform and assist schools and districts as they select and implement Standards-based mathematics curricula.
+						The K&ndash;12 Mathematics Curriculum Center was funded by the <a href="http://www.nsf.gov" target="_blank">National Science Foundation</a> to inform and assist schools and districts as they select and implement Standards-based mathematics curricula.
 					</p>
                 </div>
                 <div id="edc">
