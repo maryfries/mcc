@@ -105,30 +105,36 @@ p, ul,li,ol{
 		padding-top: 10px;
 		}
 	#nsf {
+		position: relative;
 		float:left;
 		width: 250px;
 		margin: 0;
-		background: url("../images/logos/NSFlogo.gif") no-repeat;
+		/*background: url("../images/logos/NSFlogo.gif") no-repeat;*/
 		}
 	#nsf p{ 
-		clear:right;
-		margin:0 0 1em 6em; 
-		font-size:11px;
+		clear: right;
+		margin: 0 0 1em 1em; 
+		font-size: 11px;
 		}
+	#nsf p img{
+		float: left;
+		margin: 0;
+		padding: 0 1em 0 0 ;
+	}
 	#edc{
-		float:right;
+		float: right;
 		width: 260px;
-		margin:0;
+		margin: 0;
 		padding: 0;
 		/*background: url("../images/logos/edc_logonew.jpg") no-repeat;*/
 	}
 	#edc p{
-		clear:right;
-		margin:0 0 0 0; 
-		font-size:11px;
+		clear: right;
+		margin: 0 0 0 0; 
+		font-size: 11px;
 	}
 	#edc p img{
-		float: left;
+		float: none;
 		margin: 0;
 		padding: 0 1em 0 0 ;
 	}
