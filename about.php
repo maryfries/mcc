@@ -20,7 +20,7 @@
                 <h1>About Us </h1>
                 <img src="images/3squares.gif" alt="Squares" width="100" height="35" class="bigsquares" title="Squares">
                 <h2>About the K&ndash;12 Mathematics Curriculum Center</h2>
-                <p>The K&ndash;12 Mathematics Curriculum Center (K&ndash;12 MCC) was a project at 1997 at Education Development Center, Inc. from 1997 to 2007. Our mission was to help teachers and administrators make thoughtful, informed decisions about mathematics curriculum and instructional materials. To that end, our projects aimed to:</p>
+                <p>The K&ndash;12 Mathematics Curriculum Center (K&ndash;12 MCC) was a project at Education Development Center, Inc. from 1997 to 2007. Our mission was to help teachers and administrators make thoughtful, informed decisions about mathematics curriculum and instructional materials. To that end, our projects aimed to:</p>
 				<div>
                 	<ul>
                         <li>investigate how curriculum decisions are made in K&ndash;12 mathematics programs</li>

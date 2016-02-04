@@ -18,7 +18,7 @@
             <div id="maincontent">
                 <h1>The K&ndash;12 Mathematics Curriculum Center</h1>
                 <img src="images/3squares.gif" width="100" height="35" class ="bigsquares" alt="Squares" title="Squares">
-                <p><img src="images/homepage.jpg" alt="Adult Learners" width="104" height="84" class="leftphoto">The K&ndash;12 Mathematics Curriculum Center aims to help teachers and administrators make thoughtful, informed decisions about mathematics curriculum and instructional  materials. Our projects explore and analyze how curriculum decisions are  made in K&ndash;12 mathematics programs, provide resources that support good curriculum  selection and implementation, and connect research and practice in mathematics  instruction. Funded by the National Science Foundation since 1997, the center  is based at Education Development Center, Inc. </p>
+                <p><img src="images/homepage.jpg" alt="Adult Learners" width="104" height="84" class="leftphoto">The K&ndash;12 Mathematics Curriculum Center aims to help teachers and administrators make thoughtful, informed decisions about mathematics curriculum and instructional  materials. Our projects explore and analyze how curriculum decisions are  made in K&ndash;12 mathematics programs, provide resources that support good curriculum  selection and implementation, and connect research and practice in mathematics  instruction. Funded by the National Science Foundation from 1997 to 2007, the center was based at Education Development Center, Inc. </p>
             </div> 
             
             <div id="news">
